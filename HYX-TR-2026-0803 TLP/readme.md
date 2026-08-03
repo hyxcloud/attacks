@@ -45,7 +45,6 @@ This activity aligns with a well-documented, actively-tracked family of WordPres
 ## 3. Affected environment & incident context
 
 - **Reference forensic image:** a full `public_html` capture of a live compromised production site.
-- **Compromised domain (from on-host artefacts):** `rejouva-tech.co.uk`.
 - **Hosting path fingerprint:** document root under `/var/www/145e9e79-5b51-46c2-9be7-19754fde7d14/public_html/` (this UUID appears hard-coded in the `auto_prepend_file` stub — a per-host artefact).
 - **Scale:** ~6,200 files, ~1,700 PHP files; ~20 plugin directories and multiple themes present, most of the suspicious ones attacker-introduced.
 - **v1 baseline:** clean WordPress 7.0.2 core with **no plugins or themes**, used to isolate the primary backdoor and confirm it is extension-independent.
