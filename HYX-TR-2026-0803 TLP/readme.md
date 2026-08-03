@@ -1,4 +1,4 @@
-# Threat Disclosure — Multi-Vector WordPress Compromise Framework
+# Multi-Vector WordPress Compromise Framework
 
 **Publisher:** Hyx Security Research (CDN / WAF)
 **Document type:** Customer research advisory
