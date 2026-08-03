@@ -6,6 +6,7 @@
 **Version:** 2.0 (supersedes 1.0)
 **TLP:** CLEAR (may be redistributed freely; adjust to your programme's needs)
 **Date:** 2026-08-03
+**WP Version:** 7.0.2
 **Audience:** Site operators and hosting teams — particularly those **not** protected by Hyx edge/WAF who need to detect and block this threat on their own infrastructure
 
 ---
